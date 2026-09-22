@@ -291,13 +291,10 @@ na branch "output".
 
 
 
-<a href="SEU_LINKEDIN">
-  <img src="(https://www.linkedin.com/in/gabriel-alves-48122a338)" />
+<a href="(https://www.linkedin.com/in/gabriel-alves-48122a338)">
+ <img src="https://img.shields.io/badge/LinkedIn-Gabriel%20Alves-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />(https://www.linkedin.com/in/gabriel-alves-48122a338)" />
 </a>
 
-
-<a href="https://bossfit-ia.lovable.app">
-  <img src="https://img.shields.io/badge/Portfolio-BossFit%20IA-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
 </p>
