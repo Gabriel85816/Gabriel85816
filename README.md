@@ -15,14 +15,14 @@
 
 ```text
 ╔══════════════════════════════════════════════╗
-║           GABRIEL.OS • SYSTEM BOOT          ║
+║           GABRIEL.OS • SYSTEM BOOT           ║
 ╠══════════════════════════════════════════════╣
-║ [✓] Software Engineering                    ║
-║ [✓] IT Support & Infrastructure             ║
-║ [✓] Python & SQL                            ║
-║ [✓] Linux & Active Directory                ║
-║ [✓] Web Development                         ║
-║ [✓] Generative AI                           ║
+║ [✓] Software Engineering                     ║
+║ [✓] IT Support & Infrastructure              ║
+║ [✓] Python & SQL                             ║
+║ [✓] Linux & Active Directory                 ║
+║ [✓] Web Development                          ║
+║ [✓] Generative AI                            ║
 ║                                              ║
 ║ STATUS: ONLINE_                              ║
 ╚══════════════════════════════════════════════╝
