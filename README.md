@@ -292,7 +292,7 @@ na branch "output".
 
 
 <a href="SEU_LINKEDIN">
-  <img src="[https://img.shields.io/badge/LinkedIn-Gabriel%20Alves-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/gabriel-alves-48122a338)" />
+  <img src="(https://www.linkedin.com/in/gabriel-alves-48122a338)" />
 </a>
 
 
