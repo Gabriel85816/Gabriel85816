@@ -199,82 +199,6 @@ gabriel@dev:~$ _
 ```
 
 <br>
-
----
-
-# `> GITHUB_ANALYTICS`
-
-<p align="center">
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=Gabriel85816&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=7C3AED&text_color=C9D1D9"
-  />
-
-<img
- height="180em"
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel85816&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9"
-/>
-
-</p>
-
-<br>
-
-### 🔥 GitHub Streak
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Gabriel85816&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5FF&fire=7C3AED&currStreakLabel=00F5FF"
-  />
-</p>
-
-<br>
-
-### 📈 Activity Graph
-
-<p align="center">
-  <img
-    width="100%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Gabriel85816&bg_color=0D1117&color=00F5FF&line=7C3AED&point=C7FF4A&area=true&hide_border=true"
-  />
-</p>
-
-<br>
-
----
-
-# `> ACHIEVEMENTS`
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=Gabriel85816&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7"
-  />
-</p>
-
-<br>
-
----
-
-# `> CONTRIBUTION_MATRIX`
-
-<p align="center">
-
-```text
-SCANNING CONTRIBUTION NETWORK...
-```
-
-</p>
-
-<!--
-Para a animação funcionar, configure um GitHub Action
-que gere o arquivo github-contribution-grid-snake-dark.svg
-na branch "output".
--->
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Gabriel85816/Gabriel85816/output/github-contribution-grid-snake-dark.svg"
-    alt="Snake contribution animation"
-  />
 </p>
 
 <br>
@@ -291,8 +215,8 @@ na branch "output".
 
 
 
-<a href="(https://www.linkedin.com/in/gabriel-alves-48122a338)">
- <img src="https://img.shields.io/badge/LinkedIn-Gabriel%20Alves-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />(https://www.linkedin.com/in/gabriel-alves-48122a338)" />
+<a href="([https://www.linkedin.com/in/gabriel-alves-48122a338)]">
+ <img src="https://img.shields.io/badge/LinkedIn-Gabriel%20Alves-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 </a>
