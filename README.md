@@ -289,13 +289,12 @@ na branch "output".
   <img src="https://img.shields.io/badge/GitHub-Gabriel85816-0D1117?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<!--
-Quando tiver seu link do LinkedIn, substitua SEU_LINKEDIN abaixo.
+
 
 <a href="SEU_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-Gabriel%20Alves-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="[https://img.shields.io/badge/LinkedIn-Gabriel%20Alves-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/gabriel-alves-48122a338)" />
 </a>
--->
+
 
 <a href="https://bossfit-ia.lovable.app">
   <img src="https://img.shields.io/badge/Portfolio-BossFit%20IA-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" />
