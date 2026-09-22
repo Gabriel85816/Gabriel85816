@@ -147,26 +147,6 @@ class GabrielAlves:
 <table>
 <tr>
 
-<td width="50%" valign="top">
-
-<h3 align="center">🤖 BossFit IA</h3>
-
-<p align="center">
-Plataforma fitness com foco em tecnologia e Inteligência Artificial para auxiliar na criação de treinos personalizados.
-</p>
-
-<p align="center">
-
-`AI` • `Fitness` • `Web` • `UX`
-
-</p>
-
-<p align="center">
-  <a href="https://bossfit-ia.lovable.app">
-    <img src="https://img.shields.io/badge/ACESSAR%20PROJETO-00F5FF?style=for-the-badge&logoColor=000000" />
-  </a>
-</p>
-
 </td>
 
 <td width="50%" valign="top">
