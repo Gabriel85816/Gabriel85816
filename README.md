@@ -50,5 +50,305 @@
 ## `> SOBRE_MIM.exe`
 
 ```python
-class
+class GabrielAlves:
+    def __init__(self):
+        self.area = "Engenharia de Software"
+        self.focus = [
+            "Desenvolvimento de Software",
+            "Infraestrutura de TI",
+            "Suporte Técnico",
+            "Banco de Dados",
+            "Inteligência Artificial"
+        ]
+
+        self.learning = [
+            "Python",
+            "SQL",
+            "Desenvolvimento Web",
+            "IA Generativa",
+            "Engenharia de Prompt"
+        ]
+
+    def objetivo(self):
+        return "Transformar conhecimento em projetos e experiência."
 ```
+
+🎓 Estudante de **Engenharia de Software**, interessado em desenvolvimento, infraestrutura e novas tecnologias.
+
+💻 Tenho conhecimentos em **Suporte Técnico, Infraestrutura de TI, Linux, Windows, Hardware, manutenção de computadores e Active Directory**.
+
+🚀 Também estou desenvolvendo minhas habilidades em **Python, SQL, Modelagem de Dados, Desenvolvimento Web, Inteligência Artificial Generativa e Engenharia de Prompt**.
+
+🧠 Meu objetivo é continuar evoluindo tecnicamente, desenvolver projetos práticos e adquirir cada vez mais experiência no mercado de tecnologia.
+
+<br>
+
+---
+
+# `> TECH_STACK`
+
+### 💻 Desenvolvimento
+
+<p>
+  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00F5FF" />
+  <img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=00F5FF" />
+  <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6" />
+</p>
+
+### 🗄️ Banco de Dados
+
+<p>
+  <img src="https://img.shields.io/badge/SQL-Database-7C3AED?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Modeling-0D1117?style=for-the-badge&logo=diagramsdotnet&logoColor=00F5FF" />
+  <img src="https://img.shields.io/badge/Oracle%20SQL%20Developer-0D1117?style=for-the-badge&logo=oracle&logoColor=F80000" />
+</p>
+
+### 🖥️ Infraestrutura & Sistemas
+
+<p>
+  <img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624" />
+  <img src="https://img.shields.io/badge/Windows-0D1117?style=for-the-badge&logo=windows11&logoColor=00F5FF" />
+  <img src="https://img.shields.io/badge/Active%20Directory-0D1117?style=for-the-badge&logo=microsoftazure&logoColor=00F5FF" />
+  <img src="https://img.shields.io/badge/Hardware-0D1117?style=for-the-badge&logo=pcgamingwiki&logoColor=7C3AED" />
+  <img src="https://img.shields.io/badge/IT%20Support-0D1117?style=for-the-badge&logo=protondb&logoColor=C7FF4A" />
+</p>
+
+### 🤖 Inteligência Artificial
+
+<p>
+  <img src="https://img.shields.io/badge/Generative%20AI-0D1117?style=for-the-badge&logo=openai&logoColor=00F5FF" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-0D1117?style=for-the-badge&logo=openai&logoColor=7C3AED" />
+</p>
+
+<br>
+
+---
+
+# `> TOOLS`
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/VS%20Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=00F5FF" />
+<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032" />
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Terminal-0D1117?style=for-the-badge&logo=gnometerminal&logoColor=C7FF4A" />
+<img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624" />
+<img src="https://img.shields.io/badge/Windows-0D1117?style=for-the-badge&logo=windows11&logoColor=00F5FF" />
+
+</p>
+
+<br>
+
+---
+
+# `> FEATURED_PROJECTS`
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🤖 BossFit IA</h3>
+
+<p align="center">
+Plataforma fitness com foco em tecnologia e Inteligência Artificial para auxiliar na criação de treinos personalizados.
+</p>
+
+<p align="center">
+
+`AI` • `Fitness` • `Web` • `UX`
+
+</p>
+
+<p align="center">
+  <a href="https://bossfit-ia.lovable.app">
+    <img src="https://img.shields.io/badge/ACESSAR%20PROJETO-00F5FF?style=for-the-badge&logoColor=000000" />
+  </a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">💻 Software Engineering Lab</h3>
+
+<p align="center">
+Repositórios dedicados aos meus estudos e evolução em desenvolvimento de software, Python, banco de dados e tecnologia.
+</p>
+
+<p align="center">
+
+`Python` • `SQL` • `Database` • `Software`
+
+</p>
+
+<p align="center">
+  <a href="https://github.com/Gabriel85816?tab=repositories">
+    <img src="https://img.shields.io/badge/VER%20REPOSITÓRIOS-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+---
+
+# `> CURRENT_MISSION`
+
+```bash
+gabriel@dev:~$ ./current-goals.sh
+
+[01] Aprimorar meus conhecimentos em Python
+[02] Evoluir em SQL e Modelagem de Dados
+[03] Desenvolver novos projetos para meu portfólio
+[04] Evoluir em Desenvolvimento Web
+[05] Aprofundar conhecimentos em Linux e Infraestrutura
+[06] Explorar IA Generativa e Engenharia de Prompt
+[07] Aprender novas tecnologias e boas práticas
+
+STATUS .............. RUNNING
+PROGRESS ............ ███████████░░░░
+NEXT_LEVEL .......... LOADING...
+
+gabriel@dev:~$ _
+```
+
+<br>
+
+---
+
+# `> GITHUB_ANALYTICS`
+
+<p align="center">
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=Gabriel85816&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=7C3AED&text_color=C9D1D9"
+  />
+
+<img
+ height="180em"
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel85816&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9"
+/>
+
+</p>
+
+<br>
+
+### 🔥 GitHub Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Gabriel85816&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5FF&fire=7C3AED&currStreakLabel=00F5FF"
+  />
+</p>
+
+<br>
+
+### 📈 Activity Graph
+
+<p align="center">
+  <img
+    width="100%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Gabriel85816&bg_color=0D1117&color=00F5FF&line=7C3AED&point=C7FF4A&area=true&hide_border=true"
+  />
+</p>
+
+<br>
+
+---
+
+# `> ACHIEVEMENTS`
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Gabriel85816&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7"
+  />
+</p>
+
+<br>
+
+---
+
+# `> CONTRIBUTION_MATRIX`
+
+<p align="center">
+
+```text
+SCANNING CONTRIBUTION NETWORK...
+```
+
+</p>
+
+<!--
+Para a animação funcionar, configure um GitHub Action
+que gere o arquivo github-contribution-grid-snake-dark.svg
+na branch "output".
+-->
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Gabriel85816/Gabriel85816/output/github-contribution-grid-snake-dark.svg"
+    alt="Snake contribution animation"
+  />
+</p>
+
+<br>
+
+---
+
+# `> NETWORK`
+
+<p align="center">
+
+<a href="https://github.com/Gabriel85816">
+  <img src="https://img.shields.io/badge/GitHub-Gabriel85816-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<!--
+Quando tiver seu link do LinkedIn, substitua SEU_LINKEDIN abaixo.
+
+<a href="SEU_LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-Gabriel%20Alves-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+-->
+
+<a href="https://bossfit-ia.lovable.app">
+  <img src="https://img.shields.io/badge/Portfolio-BossFit%20IA-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+</p>
+
+<br>
+
+---
+
+<div align="center">
+
+```text
+╔══════════════════════════════════════════╗
+║                                          ║
+║        THANK YOU FOR VISITING            ║
+║                                          ║
+║     BUILD • LEARN • CREATE • EVOLVE      ║
+║                                          ║
+╚══════════════════════════════════════════╝
+```
+
+### `SYSTEM STATUS: ONLINE 🟢`
+
+<sub>Desenvolvido com ☕, código e curiosidade.</sub>
+
+</div>
+
+<p align="center">
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00F5FF,50:7C3AED,100:020617"
+  />
+</p>
+
